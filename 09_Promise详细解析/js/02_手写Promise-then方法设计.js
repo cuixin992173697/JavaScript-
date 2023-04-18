@@ -56,7 +56,7 @@ promise.then(res => {
 })
 
 // promise.then(res => {
-//   console.log("res2:", res)
+//   console.log("res2:", res) 
 // }, err => {
 //   console.log("err2:", err)
 // })
